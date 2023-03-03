@@ -9,7 +9,7 @@ Spear Phishing Presentation
 
 # Edit Fish.py file
 1. change "<gmail_account@gmail.com>" to YOUR email. 
-2. Change "<TOKEN>" with your gmail token. 
+2. Change "token" with your gmail token. 
 3. Save file
 
 # usage
